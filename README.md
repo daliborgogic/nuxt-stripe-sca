@@ -1,0 +1,5 @@
+# nuxt-stripe-sca
+
+> On September 14, 2019, a new regulation for authentication will be introduced in Europe. Known as Strong Customer Authentication (SCA), this regulation will apply to online payments within the European Economic Area (EEA) where the cardholder’s bank and the business’s payment provider are both in the EEA. Some businesses outside of Europe may also be impacted depending on how European issuers implement the new authentication rules.
+
+SCA requires that businesses use [two independent authentication elements](https://stripe.com/guides/strong-customer-authentication#what-is-strong-customer-authentication) to verify payments. Transactions that don’t meet these new authentication requirements or [qualify for any exemption](https://stripe.com/guides/strong-customer-authentication#exemptions-to-strong-customer-authentication) may be declined starting September 14, 2019. [3D Secure 2](https://stripe.com/guides/3d-secure-2) —the new version of 3D Secure rolling out in 2019—will be the primary authentication method used to meet SCA requirements for card payments.
