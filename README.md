@@ -1,4 +1,4 @@
-# nuxt-stripe-sca
+# nuxt-stripe-sca [under development]
 
 > On September 14, 2019, a new regulation for authentication will be introduced in Europe. Known as Strong Customer Authentication (SCA), this regulation will apply to online payments within the European Economic Area (EEA) where the cardholder’s bank and the business’s payment provider are both in the EEA. Some businesses outside of Europe may also be impacted depending on how European issuers implement the new authentication rules.
 
